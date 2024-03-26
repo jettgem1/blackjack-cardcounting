@@ -1,0 +1,36 @@
+lib: [
+  "_build/install/default/lib/Game/META"
+  "_build/install/default/lib/Game/action.ml"
+  "_build/install/default/lib/Game/action.mli"
+  "_build/install/default/lib/Game/authors.ml"
+  "_build/install/default/lib/Game/authors.mli"
+  "_build/install/default/lib/Game/basegame.ml"
+  "_build/install/default/lib/Game/basegame.mli"
+  "_build/install/default/lib/Game/dune-package"
+  "_build/install/default/lib/Game/game.a"
+  "_build/install/default/lib/Game/game.cma"
+  "_build/install/default/lib/Game/game.cmi"
+  "_build/install/default/lib/Game/game.cmt"
+  "_build/install/default/lib/Game/game.cmx"
+  "_build/install/default/lib/Game/game.cmxa"
+  "_build/install/default/lib/Game/game.ml"
+  "_build/install/default/lib/Game/game__Action.cmi"
+  "_build/install/default/lib/Game/game__Action.cmt"
+  "_build/install/default/lib/Game/game__Action.cmti"
+  "_build/install/default/lib/Game/game__Action.cmx"
+  "_build/install/default/lib/Game/game__Authors.cmi"
+  "_build/install/default/lib/Game/game__Authors.cmt"
+  "_build/install/default/lib/Game/game__Authors.cmti"
+  "_build/install/default/lib/Game/game__Authors.cmx"
+  "_build/install/default/lib/Game/game__Basegame.cmi"
+  "_build/install/default/lib/Game/game__Basegame.cmt"
+  "_build/install/default/lib/Game/game__Basegame.cmti"
+  "_build/install/default/lib/Game/game__Basegame.cmx"
+  "_build/install/default/lib/Game/opam"
+]
+libexec: [
+  "_build/install/default/lib/Game/game.cmxs"
+]
+doc: [
+  "_build/install/default/doc/Game/README.md"
+]

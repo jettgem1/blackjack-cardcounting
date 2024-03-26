@@ -1,0 +1,7 @@
+Download the source code from CMS. It is a ZIP file named 
+
+Extract the ZIP file from the terminal by running unzip
+
+Run dune build to build the source code in the src directory
+
+Run make play to begin the game

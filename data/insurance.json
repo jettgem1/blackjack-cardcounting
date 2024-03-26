@@ -1,0 +1,53 @@
+{
+    "cards": [
+        {
+            "name": "Ace of Hearts",
+            "suit": "Hearts",
+            "rank": "Ace",
+            "value": 11
+        },
+        {
+            "name": "Ten of Hearts",
+            "suit": "Hearts",
+            "rank": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Jack of Hearts",
+            "suit": "Hearts",
+            "rank": "Jack",
+            "value": 10
+        },
+        {
+            "name": "Ace of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Ace",
+            "value": 11
+        },
+        {
+            "name": "Ace of Spades",
+            "suit": "Spades",
+            "rank": "Ace",
+            "value": 11
+        },
+        {
+            "name": "Ace of Clubs",
+            "suit": "Clubs",
+            "rank": "Ace",
+            "value": 11
+        },
+        {
+            "name": "Queen of Hearts",
+            "suit": "Hearts",
+            "rank": "Queen",
+            "value": 10
+        },
+        {
+            "name": "King of Hearts",
+            "suit": "Hearts",
+            "rank": "King",
+            "value": 10
+        }
+    ],
+    "number of cards": 8
+}

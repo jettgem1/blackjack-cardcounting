@@ -1,0 +1,123 @@
+# dune exec bin/main.exe
+# OCAMLPARAM: unset
+# Workspace root: /Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack
+$ /usr/bin/getconf _NPROCESSORS_ONLN > /var/folders/wq/1lpj_s9x1jnb_khfrgnzw2fc0000gn/T/duneb82bec.output 2> /dev/null
+# Auto-detected concurrency: 8
+# disable binary cache
+$ /Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamlc.opt -config > /var/folders/wq/1lpj_s9x1jnb_khfrgnzw2fc0000gn/T/dune4920f4.output
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dyn
+#  ; merlin = true
+#  ; for_host = None
+#  ; fdo_target_exe = None
+#  ; build_dir = "default"
+#  ; toplevel_path =
+#      Some External "/Users/jettgemmer/.opam/cs3110-2021fa/lib/toplevel"
+#  ; ocaml_bin = External "/Users/jettgemmer/.opam/cs3110-2021fa/bin"
+#  ; ocaml = Ok External "/Users/jettgemmer/.opam/cs3110-2021fa/bin/ocaml"
+#  ; ocamlc = External "/Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamlc.opt"
+#  ; ocamlopt =
+#      Ok External "/Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamlopt.opt"
+#  ; ocamldep =
+#      Ok External "/Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamldep.opt"
+#  ; ocamlmklib =
+#      Ok External "/Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamlmklib.opt"
+#  ; env =
+#      map
+#        { "DUNE_OCAML_HARDCODED" : "/Users/jettgemmer/.opam/cs3110-2021fa/lib"
+#        ; "DUNE_OCAML_STDLIB" :
+#            "/Users/jettgemmer/.opam/cs3110-2021fa/lib/ocaml"
+#        ; "DUNE_SOURCEROOT" :
+#            "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack"
+#        ; "INSIDE_DUNE" :
+#            "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack/_build/default"
+#        ; "MANPATH" :
+#            "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack/_build/install/default/bin"
+#        ; "OCAMLFIND_IGNORE_DUPS_IN" :
+#            "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack/_build/install/default/lib"
+#        ; "OCAMLPATH" :
+#            "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack/_build/install/default/lib"
+#        ; "OCAMLTOP_INCLUDE_PATH" :
+#            "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack/_build/install/default/lib/toplevel"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; findlib_path = [ External "/Users/jettgemmer/.opam/cs3110-2021fa/lib" ]
+#  ; arch_sixtyfour = true
+#  ; natdynlink_supported = true
+#  ; supports_shared_libraries = true
+#  ; ocaml_config =
+#      { version = "4.12.0"
+#      ; standard_library_default =
+#          "/Users/jettgemmer/.opam/cs3110-2021fa/lib/ocaml"
+#      ; standard_library = "/Users/jettgemmer/.opam/cs3110-2021fa/lib/ocaml"
+#      ; standard_runtime = "the_standard_runtime_variable_was_deleted"
+#      ; ccomp_type = "cc"
+#      ; c_compiler = "cc"
+#      ; ocamlc_cflags = [ "-O2"; "-fno-strict-aliasing"; "-fwrapv" ]
+#      ; ocamlc_cppflags = [ "-D_FILE_OFFSET_BITS=64"; "-D_REENTRANT" ]
+#      ; ocamlopt_cflags = [ "-O2"; "-fno-strict-aliasing"; "-fwrapv" ]
+#      ; ocamlopt_cppflags = [ "-D_FILE_OFFSET_BITS=64"; "-D_REENTRANT" ]
+#      ; bytecomp_c_compiler =
+#          [ "cc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ; "-D_REENTRANT"
+#          ]
+#      ; bytecomp_c_libraries = [ "-lm"; "-lpthread" ]
+#      ; native_c_compiler =
+#          [ "cc"
+#          ; "-O2"
+#          ; "-fno-strict-aliasing"
+#          ; "-fwrapv"
+#          ; "-D_FILE_OFFSET_BITS=64"
+#          ; "-D_REENTRANT"
+#          ]
+#      ; native_c_libraries = [ "-lm" ]
+#      ; cc_profile = []
+#      ; architecture = "amd64"
+#      ; model = "default"
+#      ; int_size = 63
+#      ; word_size = 64
+#      ; system = "macosx"
+#      ; asm = [ "clang"; "-arch"; "x86_64"; "-Wno-trigraphs"; "-c" ]
+#      ; asm_cfi_supported = true
+#      ; with_frame_pointers = false
+#      ; ext_exe = ""
+#      ; ext_obj = ".o"
+#      ; ext_asm = ".s"
+#      ; ext_lib = ".a"
+#      ; ext_dll = ".so"
+#      ; os_type = "Unix"
+#      ; default_executable_name = "a.out"
+#      ; systhread_supported = true
+#      ; host = "x86_64-apple-darwin20.6.0"
+#      ; target = "x86_64-apple-darwin20.6.0"
+#      ; profiling = false
+#      ; flambda = false
+#      ; spacetime = false
+#      ; safe_string = true
+#      ; exec_magic_number = "Caml1999X029"
+#      ; cmi_magic_number = "Caml1999I029"
+#      ; cmo_magic_number = "Caml1999O029"
+#      ; cma_magic_number = "Caml1999A029"
+#      ; cmx_magic_number = "Caml1999Y029"
+#      ; cmxa_magic_number = "Caml1999Z029"
+#      ; ast_impl_magic_number = "Caml1999M029"
+#      ; ast_intf_magic_number = "Caml1999N029"
+#      ; cmxs_magic_number = "Caml1999D029"
+#      ; cmt_magic_number = "Caml1999T029"
+#      ; natdynlink_supported = true
+#      ; supports_shared_libraries = true
+#      ; windows_unicode = false
+#      }
+#  }
+# Workspace root: /Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack
+$ (cd _build/default && /Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamldep.opt -modules -impl src/basegame.ml) > _build/default/src/.game.objs/basegame.ml.d
+$ (cd _build/default && /Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamlopt.opt -w +a-4-6-7-9-27-29-30-32..42-44-45-48-50-60-66-67 -warn-error -a+31 -g -I src/.game.objs/byte -I src/.game.objs/native -I /Users/jettgemmer/.opam/cs3110-2021fa/lib/ANSITerminal -I /Users/jettgemmer/.opam/cs3110-2021fa/lib/biniou -I /Users/jettgemmer/.opam/cs3110-2021fa/lib/bytes -I /Users/jettgemmer/.opam/cs3110-2021fa/lib/easy-format -I /Users/jettgemmer/.opam/cs3110-2021fa/lib/yojson -intf-suffix .ml -no-alias-deps -opaque -open Game -o src/.game.objs/native/game__Basegame.cmx -c -impl src/basegame.ml)
+$ (cd _build/default && /Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamlopt.opt -w +a-4-6-7-9-27-29-30-32..42-44-45-48-50-60-66-67 -warn-error -a+31 -g -a -o src/game.cmxa src/.game.objs/native/game.cmx src/.game.objs/native/game__Basegame.cmx src/.game.objs/native/game__Authors.cmx src/.game.objs/native/game__Action.cmx)
+$ (cd _build/default && /Users/jettgemmer/.opam/cs3110-2021fa/bin/ocamlopt.opt -w +a-4-6-7-9-27-29-30-32..42-44-45-48-50-60-66-67 -warn-error -a+31 -g -o bin/main.exe /Users/jettgemmer/.opam/cs3110-2021fa/lib/easy-format/easy_format.cmxa /Users/jettgemmer/.opam/cs3110-2021fa/lib/biniou/biniou.cmxa /Users/jettgemmer/.opam/cs3110-2021fa/lib/yojson/yojson.cmxa /Users/jettgemmer/.opam/cs3110-2021fa/lib/ocaml/unix.cmxa -I /Users/jettgemmer/.opam/cs3110-2021fa/lib/ocaml /Users/jettgemmer/.opam/cs3110-2021fa/lib/ANSITerminal/ANSITerminal.cmxa -I /Users/jettgemmer/.opam/cs3110-2021fa/lib/ANSITerminal src/game.cmxa bin/.main.eobjs/native/dune__exe__Main.cmx)

@@ -1,0 +1,317 @@
+{
+    "cards": [
+        {
+            "name": "Ace of Hearts",
+            "suit": "Hearts",
+            "rank": "Ace",
+            "value": 11
+        },
+        {
+            "name": "Two of Hearts",
+            "suit": "Hearts",
+            "rank": "Two",
+            "value": 2
+        },
+        {
+            "name": "Three of Hearts",
+            "suit": "Hearts",
+            "rank": "Three",
+            "value": 3
+        },
+        {
+            "name": "Four of Hearts",
+            "suit": "Hearts",
+            "rank": "Four",
+            "value": 4
+        },
+        {
+            "name": "Five of Hearts",
+            "suit": "Hearts",
+            "rank": "Five",
+            "value": 5
+        },
+        {
+            "name": "Six of Hearts",
+            "suit": "Hearts",
+            "rank": "Six",
+            "value": 6
+        },
+        {
+            "name": "Seven of Hearts",
+            "suit": "Hearts",
+            "rank": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Eight of Hearts",
+            "suit": "Hearts",
+            "rank": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Nine of Hearts",
+            "suit": "Hearts",
+            "rank": "Nine",
+            "value": 9
+        },
+        {
+            "name": "Ten of Hearts",
+            "suit": "Hearts",
+            "rank": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Jack of Hearts",
+            "suit": "Hearts",
+            "rank": "Jack",
+            "value": 10
+        },
+        {
+            "name": "Queen of Hearts",
+            "suit": "Hearts",
+            "rank": "Queen",
+            "value": 10
+        },
+        {
+            "name": "King of Hearts",
+            "suit": "Hearts",
+            "rank": "King",
+            "value": 10
+        },
+        {
+            "name": "Ace of Clubs",
+            "suit": "Clubs",
+            "rank": "Ace",
+            "value": 11
+        },
+        {
+            "name": "Two of Clubs",
+            "suit": "Clubs",
+            "rank": "Two",
+            "value": 2
+        },
+        {
+            "name": "Three of Clubs",
+            "suit": "Clubs",
+            "rank": "Three",
+            "value": 3
+        },
+        {
+            "name": "Four of Clubs",
+            "suit": "Clubs",
+            "rank": "Four",
+            "value": 4
+        },
+        {
+            "name": "Five of Clubs",
+            "suit": "Clubs",
+            "rank": "Five",
+            "value": 5
+        },
+        {
+            "name": "Six of Clubs",
+            "suit": "Clubs",
+            "rank": "Six",
+            "value": 6
+        },
+        {
+            "name": "Seven of Clubs",
+            "suit": "Clubs",
+            "rank": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Eight of Clubs",
+            "suit": "Clubs",
+            "rank": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Nine of Clubs",
+            "suit": "Clubs",
+            "rank": "Nine",
+            "value": 9
+        },
+        {
+            "name": "Ten of Clubs",
+            "suit": "Clubs",
+            "rank": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Jack of Clubs",
+            "suit": "Clubs",
+            "rank": "Jack",
+            "value": 10
+        },
+        {
+            "name": "Queen of Clubs",
+            "suit": "Clubs",
+            "rank": "Queen",
+            "value": 10
+        },
+        {
+            "name": "King of Clubs",
+            "suit": "Clubs",
+            "rank": "King",
+            "value": 10
+        },
+        {
+            "name": "Ace of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Ace",
+            "value": 11
+        },
+        {
+            "name": "Two of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Two",
+            "value": 2
+        },
+        {
+            "name": "Three of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Three",
+            "value": 3
+        },
+        {
+            "name": "Four of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Four",
+            "value": 4
+        },
+        {
+            "name": "Five of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Five",
+            "value": 5
+        },
+        {
+            "name": "Six of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Six",
+            "value": 6
+        },
+        {
+            "name": "Seven of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Eight of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Nine of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Nine",
+            "value": 9
+        },
+        {
+            "name": "Ten of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Jack of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Jack",
+            "value": 10
+        },
+        {
+            "name": "Queen of Diamonds",
+            "suit": "Diamonds",
+            "rank": "Queen",
+            "value": 10
+        },
+        {
+            "name": "King of Diamonds",
+            "suit": "Diamonds",
+            "rank": "King",
+            "value": 10
+        },
+        {
+            "name": "Ace of Spades",
+            "suit": "Spades",
+            "rank": "Ace",
+            "value": 11
+        },
+        {
+            "name": "Two of Spades",
+            "suit": "Spades",
+            "rank": "Two",
+            "value": 2
+        },
+        {
+            "name": "Three of Spades",
+            "suit": "Spades",
+            "rank": "Three",
+            "value": 3
+        },
+        {
+            "name": "Four of Spades",
+            "suit": "Spades",
+            "rank": "Four",
+            "value": 4
+        },
+        {
+            "name": "Five of Spades",
+            "suit": "Spades",
+            "rank": "Five",
+            "value": 5
+        },
+        {
+            "name": "Six of Spades",
+            "suit": "Spades",
+            "rank": "Six",
+            "value": 6
+        },
+        {
+            "name": "Seven of Spades",
+            "suit": "Spades",
+            "rank": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Eight of Spades",
+            "suit": "Spades",
+            "rank": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Nine of Spades",
+            "suit": "Spades",
+            "rank": "Nine",
+            "value": 9
+        },
+        {
+            "name": "Ten of Spades",
+            "suit": "Spades",
+            "rank": "Ten",
+            "value": 10
+        },
+        {
+            "name": "Jack of Spades",
+            "suit": "Spades",
+            "rank": "Jack",
+            "value": 10
+        },
+        {
+            "name": "Queen of Spades",
+            "suit": "Spades",
+            "rank": "Queen",
+            "value": 10
+        },
+        {
+            "name": "King of Spades",
+            "suit": "Spades",
+            "rank": "King",
+            "value": 10
+        }
+    ],
+    "number of cards": 52
+}

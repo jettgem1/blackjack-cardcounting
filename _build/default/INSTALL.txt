@@ -1,0 +1,9 @@
+Download the source code from CMS. It is a ZIP file named blackjack.zip
+
+Extract the ZIP file
+
+Move to the directory (called blackjack) created by unzipping the file
+
+Run dune build to build the source code
+
+Run make play to begin the game

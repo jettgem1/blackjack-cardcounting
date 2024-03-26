@@ -1,0 +1,41 @@
+{
+    "cards": [
+        {
+            "name": "Four of Hearts",
+            "suit": "Hearts",
+            "rank": "Four",
+            "value": 4
+        },
+        {
+            "name": "Six of Hearts",
+            "suit": "Hearts",
+            "rank": "Six",
+            "value": 6
+        },
+        {
+            "name": "Seven of Hearts",
+            "suit": "Hearts",
+            "rank": "Seven",
+            "value": 7
+        },
+        {
+            "name": "Eight of Hearts",
+            "suit": "Hearts",
+            "rank": "Eight",
+            "value": 8
+        },
+        {
+            "name": "Five of Hearts",
+            "suit": "Hearts",
+            "rank": "Five",
+            "value": 5
+        },
+        {
+            "name": "Four of Spades",
+            "suit": "Spades",
+            "rank": "Four",
+            "value": 4
+        }
+    ],
+    "number of cards": 7
+}

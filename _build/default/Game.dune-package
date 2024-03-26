@@ -1,0 +1,33 @@
+(lang dune 2.9)
+(name Game)
+(library
+ (name Game)
+ (kind normal)
+ (archives (byte game.cma) (native game.cmxa))
+ (plugins (byte game.cma) (native game.cmxs))
+ (native_archives game.a)
+ (requires yojson ANSITerminal)
+ (main_module_name Game)
+ (modes byte native)
+ (modules
+  (wrapped
+   (main_module_name Game)
+   (modules
+    ((name Action) (obj_name game__Action) (visibility public) (impl) (intf))
+    ((name Authors)
+     (obj_name game__Authors)
+     (visibility public)
+     (impl)
+     (intf))
+    ((name Basegame)
+     (obj_name game__Basegame)
+     (visibility public)
+     (impl)
+     (intf)))
+   (alias_module
+    (name Game)
+    (obj_name game)
+    (visibility public)
+    (kind alias)
+    (impl))
+   (wrapped true))))

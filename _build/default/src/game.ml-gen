@@ -1,0 +1,10 @@
+(** @canonical Game.Action *)
+module Action = Game__Action
+
+
+(** @canonical Game.Authors *)
+module Authors = Game__Authors
+
+
+(** @canonical Game.Basegame *)
+module Basegame = Game__Basegame

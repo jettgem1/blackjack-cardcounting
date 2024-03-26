@@ -1,0 +1,29 @@
+{
+  "Introduction": {
+    "Welcome": "\nWelcome to the game of Blackjack! Blackjack is an extemely popular casino game\nin which the player competes against the house. The player is dealt two cards and has\nto compare their hand to the dealer's hand, who initially only shows one card to\nthe player. The player must then choose a course of action based on how their hand stacks \nup against what the dealer is showing.",
+    "Betting": "\nBefore a hand is dealt to the player, the player places their bet for the round. \nIf the player wins, their bet is returned and matched by the house, unless the player \nwon after doubling down, at which point twice the value of the bet is given to the player \non top of the return of their bet. If the player loses, their bet is given to the house.",
+    "Actions": "\nThe player can can choose between a couple of actions when it is their turn.\nAt the start of the turn, if the player is dealt two matching cards in rank,\nthe player can choose to split their hand, \nessentially playing two hands at the same time against the dealer.\nThe player can also choose whether to play insurance, hit, double down, or stay.",
+    "Objective": "\nThe aim of the player is to get a hand as close as possible to a point value of 21.\nIf the player goes over 21, the player busts e.g. loses. If the player's hand is lower than \nthe dealer's hand at the end of their turn, then the player loses. The player wins if the value \nof their hand is closer to 21 than the dealer's hand or if the dealer busts. \nDraws are assessed in two scenarios. If a draw occurs at a point value of 21, victory precedence \nis given to the player who posseses a Blackjack e.g. solely an ace and a face card. \nOtherwise, the player and the dealer draw, and the player's bet is returned to them",
+    "Hands": "\nThe value of a hand is determined by summing up all the values of the cards in the hand.\nCards are assigned a value by their rank e.g. a 2 is worth 2, a 7 is worth 7.\nFacecards are always worth 10 points and an Ace is normally worth 11 points.\nShould the player bust with an ace in their hand, its point value is modified to 1,\nand this applies to every additional ace that is drawn until the player either stays, hits 21, or busts. "
+  },
+  "Hit": {
+    "First": "\nHitting is the fundamental action in Blackjack. When the player hits,\nanother card is dealt to their hand and its value is added to the total value of the player's hand.\nThere are certain situations where hitting is more advisable than others, \nnamely when the player could not bust from an additional card. \nThe player must measure their card's values against the dealer's cards to make an informed decision. \nIt is advisable to memorize an odds table that displays \nthe best odds of winning based on the value of your hand and what the dealer is showing.",
+    "Repeating": "\nMeasure the value of your hand against what the dealer is showing.\nRemember that if your hand reaches a value above 21, you bust and the dealer pockets your bet.\nOnce you've reached a desirable point, it is a safe choice to stay."
+  },
+  "Stay": {
+    "First": "\nStaying is another core action in Blackjack. Staying informs the dealer\nthat the player will not draw any more cards and finalizes the value of their hand. \nThe dealer is then free to start drawing cards. The dealer is obligated to keep hitting until they reach\na point value of 17 or above, at which point they stay.",
+    "Repeating": "\nKeeping in mind the odds of single deck blackjack, \nstay if you believe your hand has reached a safe point."
+  },
+  "Double Down": {
+    "First": "\nChoosing to double down doubles the value of the player's bet and deals one more card to their hand.\nSince the player's ensuing hand's value is cemented afterwards, \nit is not advisable to double down when the player's current hand has a low value.",
+    "Repeating": "\nDouble down if you are confident that the next card drawn will take your hand to a point\nthat is secure against the dealer, i.e., either the dealer will bust\nor will end on a point value lower than the anticipated value of your hand."
+  },
+  "Insurance": {
+    "First": "\nAs their first action after receiving their hand,\nthe player can decide to place Insurance down if and only if the dealer is showing an ace. \nIt essentially functions as a side bet that returns if the dealer has Blackjack. \nIt enables the player to potentially break even against a Blackjack that the dealer posesses",
+    "Repeating": "\nPlace insurance if the dealer is showing an Ace \nand you believe you might lose against their blackjack"
+  },
+  "Split": {
+    "First": "\nIf the player's hand is two cards of the same rank, \nthe player can choose to split their hand. This essentially enables the player to play two hands at once \nwith the bet they placed on the original hand carrying over to the second hand.",
+    "Repeating": "\nChoose to split if you have two cards of the same rank \nand you feel a strong chance that you might win both hands against what the dealer is showing"
+  }
+}

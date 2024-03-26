@@ -1,0 +1,360 @@
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Runner: processes
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Chooser: simple
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration suite_name = "test suite for Blackjack"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration cache_filename = "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack/_build/oUnit-$(suite_name).cache"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration run_gc_full_major = "true"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration display = "true"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration results_style_1_X = "false"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration testdata_dir = "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack/data"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration health_check_interval = "1."
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration verbose = "false"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration chooser = "simple"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration output_html_dir = "none"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration processes_kill_period = "5."
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration runner = "processes"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration shards = "2"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration processes_grace_period = "5."
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration log_encoding = "utf-8"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration output_junit_file = "none"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration ci = "false"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Configuration output_file = "/Users/jettgemmer/Documents/GitHub/Blackjack/Blackjack/_build/oUnit-$(suite_name)-$(shard_id).log"
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Using 2 workers maximum.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Starting worker number Jetts-MacBook-Pro.local#01.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Worker Jetts-MacBook-Pro.local#01 started.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Starting worker number Jetts-MacBook-Pro.local#02.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Worker Jetts-MacBook-Pro.local#02 started.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces, test suite for Blackjack:0:test a bet of value 10.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:0:test a bet of value 10.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces, test suite for Blackjack:0:test a bet of value 10.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces, test suite for Blackjack:0:test a bet of value 10.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:0:test a bet of value 10 is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces, test suite for Blackjack:0:test a bet of value 10.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:0:test a bet of value 10.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces, test suite for Blackjack:0:test a bet of value 10.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:2:test a hit action with a lot of white spaces, test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:2:test a hit action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:2:test a hit action with a lot of white spaces, test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:2:test a hit action with a lot of white spaces, test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:2:test a hit action with a lot of white spaces, test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:3:test a stay action, test suite for Blackjack:2:test a hit action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:3:test a stay action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:3:test a stay action, test suite for Blackjack:2:test a hit action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:2:test a hit action with a lot of white spaces is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:3:test a stay action, test suite for Blackjack:2:test a hit action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:2:test a hit action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:3:test a stay action, test suite for Blackjack:2:test a hit action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:4:test a stay action with a lot of white spaces, test suite for Blackjack:3:test a stay action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:4:test a stay action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:4:test a stay action with a lot of white spaces, test suite for Blackjack:3:test a stay action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:3:test a stay action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:4:test a stay action with a lot of white spaces, test suite for Blackjack:3:test a stay action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:3:test a stay action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:4:test a stay action with a lot of white spaces is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:4:test a stay action with a lot of white spaces, test suite for Blackjack:3:test a stay action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:4:test a stay action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:5:test a split action, test suite for Blackjack:4:test a stay action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:5:test a split action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:6:test a split action with a lot of white spaces, test suite for Blackjack:5:test a split action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:6:test a split action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:6:test a split action with a lot of white spaces, test suite for Blackjack:5:test a split action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:5:test a split action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:6:test a split action with a lot of white spaces, test suite for Blackjack:5:test a split action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:5:test a split action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:6:test a split action with a lot of white spaces is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:6:test a split action with a lot of white spaces, test suite for Blackjack:5:test a split action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:6:test a split action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:7:test a double down action, test suite for Blackjack:6:test a split action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:8:test a double down action with a lot of white spaces, test suite for Blackjack:7:test a double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:7:test a double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:8:test a double down action with a lot of white spaces, test suite for Blackjack:7:test a double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:8:test a double down action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:8:test a double down action with a lot of white spaces, test suite for Blackjack:7:test a double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:8:test a double down action with a lot of white spaces is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:8:test a double down action with a lot of white spaces, test suite for Blackjack:7:test a double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:7:test a double down action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:8:test a double down action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:8:test a double down action with a lot of white spaces, test suite for Blackjack:7:test a double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:7:test a double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:9:test a random start action, test suite for Blackjack:7:test a double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:10:test a random start action with a lot of white spaces, test suite for Blackjack:9:test a random start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:9:test a random start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:10:test a random start action with a lot of white spaces, test suite for Blackjack:9:test a random start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:10:test a random start action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:10:test a random start action with a lot of white spaces, test suite for Blackjack:9:test a random start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:9:test a random start action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:10:test a random start action with a lot of white spaces, test suite for Blackjack:9:test a random start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:9:test a random start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:10:test a random start action with a lot of white spaces is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:10:test a random start action with a lot of white spaces, test suite for Blackjack:9:test a random start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:10:test a random start action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:11:test a random end action, test suite for Blackjack:10:test a random start action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:12:test a random end action with a lot of white spaces, test suite for Blackjack:11:test a random end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:11:test a random end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:12:test a random end action with a lot of white spaces, test suite for Blackjack:11:test a random end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:12:test a random end action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:12:test a random end action with a lot of white spaces, test suite for Blackjack:11:test a random end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:11:test a random end action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:12:test a random end action with a lot of white spaces, test suite for Blackjack:11:test a random end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:11:test a random end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:12:test a random end action with a lot of white spaces is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:12:test a random end action with a lot of white spaces, test suite for Blackjack:11:test a random end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:12:test a random end action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:13:test an empty action, test suite for Blackjack:12:test a random end action with a lot of white spaces.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:14:test a bet with no values specified, test suite for Blackjack:13:test an empty action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:13:test an empty action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:14:test a bet with no values specified, test suite for Blackjack:13:test an empty action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:14:test a bet with no values specified.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:14:test a bet with no values specified, test suite for Blackjack:13:test an empty action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:14:test a bet with no values specified is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:14:test a bet with no values specified, test suite for Blackjack:13:test an empty action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:13:test an empty action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:14:test a bet with no values specified.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:14:test a bet with no values specified, test suite for Blackjack:13:test an empty action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:13:test an empty action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:15:test a hit with some random value, test suite for Blackjack:13:test an empty action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:16:test a hit with gibberish attached, test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:16:test a hit with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:16:test a hit with gibberish attached, test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:16:test a hit with gibberish attached, test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:16:test a hit with gibberish attached is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:16:test a hit with gibberish attached, test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:16:test a hit with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:16:test a hit with gibberish attached, test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:17:test a split with some random value, test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:15:test a hit with some random value is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:17:test a split with some random value, test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:17:test a split with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:17:test a split with some random value, test suite for Blackjack:15:test a hit with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:18:test a split with gibberish attached, test suite for Blackjack:17:test a split with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:18:test a split with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:18:test a split with gibberish attached, test suite for Blackjack:17:test a split with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:17:test a split with some random value is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:18:test a split with gibberish attached, test suite for Blackjack:17:test a split with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:17:test a split with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:18:test a split with gibberish attached, test suite for Blackjack:17:test a split with some random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:19:test a false double down action, test suite for Blackjack:18:test a split with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:19:test a false double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:19:test a false double down action, test suite for Blackjack:18:test a split with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:18:test a split with gibberish attached is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:19:test a false double down action, test suite for Blackjack:18:test a split with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:18:test a split with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:19:test a false double down action, test suite for Blackjack:18:test a split with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:20:test a double down action with random value, test suite for Blackjack:19:test a false double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:20:test a double down action with random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:20:test a double down action with random value, test suite for Blackjack:19:test a false double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:19:test a false double down action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:20:test a double down action with random value, test suite for Blackjack:19:test a false double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:19:test a false double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:20:test a double down action with random value, test suite for Blackjack:19:test a false double down action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:21:test a double down action with gibberish attached, test suite for Blackjack:20:test a double down action with random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:20:test a double down action with random value is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:21:test a double down action with gibberish attached, test suite for Blackjack:20:test a double down action with random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:20:test a double down action with random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:21:test a double down action with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:21:test a double down action with gibberish attached, test suite for Blackjack:20:test a double down action with random value.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:22:test an empty start action, test suite for Blackjack:21:test a double down action with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:22:test an empty start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:22:test an empty start action, test suite for Blackjack:21:test a double down action with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:21:test a double down action with gibberish attached is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:22:test an empty start action, test suite for Blackjack:21:test a double down action with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:21:test a double down action with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:22:test an empty start action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:22:test an empty start action, test suite for Blackjack:21:test a double down action with gibberish attached.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:22:test an empty start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:23:test an empty end action, test suite for Blackjack:22:test an empty start action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:24:test an arbitrary string, test suite for Blackjack:23:test an empty end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:23:test an empty end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:24:test an arbitrary string, test suite for Blackjack:23:test an empty end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:24:test an arbitrary string.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:24:test an arbitrary string, test suite for Blackjack:23:test an empty end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:23:test an empty end action is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:24:test an arbitrary string, test suite for Blackjack:23:test an empty end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:23:test an empty end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:24:test an arbitrary string is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:24:test an arbitrary string, test suite for Blackjack:23:test an empty end action.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:24:test an arbitrary string.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:25:shuffle deck_1 once, test suite for Blackjack:24:test an arbitrary string.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:26:shuffle deck_1 twice, test suite for Blackjack:25:shuffle deck_1 once.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:25:shuffle deck_1 once.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:26:shuffle deck_1 twice, test suite for Blackjack:25:shuffle deck_1 once.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:26:shuffle deck_1 twice.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:26:shuffle deck_1 twice, test suite for Blackjack:25:shuffle deck_1 once.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:25:shuffle deck_1 once is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:26:shuffle deck_1 twice, test suite for Blackjack:25:shuffle deck_1 once.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:25:shuffle deck_1 once.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:26:shuffle deck_1 twice, test suite for Blackjack:25:shuffle deck_1 once.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:26:shuffle deck_1 twice is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:27:shuffle deck_2, test suite for Blackjack:26:shuffle deck_1 twice.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:26:shuffle deck_1 twice.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:27:shuffle deck_2, test suite for Blackjack:26:shuffle deck_1 twice.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:27:shuffle deck_2.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:28:test top_card on deck specified by small_deck.json, test suite for Blackjack:27:shuffle deck_2.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:28:test top_card on deck specified by small_deck.json.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:28:test top_card on deck specified by small_deck.json, test suite for Blackjack:27:shuffle deck_2.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:27:shuffle deck_2 is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:28:test top_card on deck specified by small_deck.json is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:28:test top_card on deck specified by small_deck.json, test suite for Blackjack:27:shuffle deck_2.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:27:shuffle deck_2.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:28:test top_card on deck specified by small_deck.json.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:28:test top_card on deck specified by small_deck.json, test suite for Blackjack:27:shuffle deck_2.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck, test suite for Blackjack:29:test top_card on deck specified by standard_deck.json.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:29:test top_card on deck specified by standard_deck.json.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck, test suite for Blackjack:29:test top_card on deck specified by standard_deck.json.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:29:test top_card on deck specified by standard_deck.json is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck, test suite for Blackjack:29:test top_card on deck specified by standard_deck.json.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:29:test top_card on deck specified by standard_deck.json.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck, test suite for Blackjack:29:test top_card on deck specified by standard_deck.json.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck, test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:32:test hit when player hand is empty and deck is deck2, test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:32:test hit when player hand is empty and deck is deck2.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:32:test hit when player hand is empty and deck is deck2, test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:32:test hit when player hand is empty and deck is deck2 is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:32:test hit when player hand is empty and deck is deck2, test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:32:test hit when player hand is empty and deck is deck2.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:32:test hit when player hand is empty and deck is deck2, test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:34:test multiple hits with deck2 until player busts, test suite for Blackjack:33:test hit when player hand is empty and deck is deck1.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:33:test hit when player hand is empty and deck is deck1.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:34:test multiple hits with deck2 until player busts.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:34:test multiple hits with deck2 until player busts, test suite for Blackjack:33:test hit when player hand is empty and deck is deck1.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:33:test hit when player hand is empty and deck is deck1 is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:34:test multiple hits with deck2 until player busts, test suite for Blackjack:33:test hit when player hand is empty and deck is deck1.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:33:test hit when player hand is empty and deck is deck1.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:34:test multiple hits with deck2 until player busts, test suite for Blackjack:33:test hit when player hand is empty and deck is deck1.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:34:test multiple hits with deck2 until player busts is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:35:test multiple hits with deck1 and player is under, test suite for Blackjack:34:test multiple hits with deck2 until player busts.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:34:test multiple hits with deck2 until player busts.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:35:test multiple hits with deck1 and player is under, test suite for Blackjack:34:test multiple hits with deck2 until player busts.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:36:test double down on small deck, test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:36:test double down on small deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:36:test double down on small deck, test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 E: Test test suite for Blackjack:36:test double down on small deck has failed.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 E: not equal in test test suite for Blackjack:36:test double down on small deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 E: 
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:36:test double down on small deck, test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:36:test double down on small deck.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:36:test double down on small deck, test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:37:test a hand that is split, test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:37:test a hand that is split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:37:test a hand that is split, test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:35:test multiple hits with deck1 and player is under is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:37:test a hand that is split, test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:37:test a hand that is split, test suite for Blackjack:35:test multiple hits with deck1 and player is under.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:38:test an insurance hand, test suite for Blackjack:37:test a hand that is split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:38:test an insurance hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:38:test an insurance hand, test suite for Blackjack:37:test a hand that is split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:37:test a hand that is split is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:38:test an insurance hand, test suite for Blackjack:37:test a hand that is split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:37:test a hand that is split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:38:test an insurance hand, test suite for Blackjack:37:test a hand that is split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:39:test an empty hand, test suite for Blackjack:38:test an insurance hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:39:test an empty hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:39:test an empty hand, test suite for Blackjack:38:test an insurance hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:38:test an insurance hand is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:39:test an empty hand, test suite for Blackjack:38:test an insurance hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:38:test an insurance hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:39:test an empty hand, test suite for Blackjack:38:test an insurance hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:40:test a random hand that is not split, test suite for Blackjack:39:test an empty hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Start test test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:40:test a random hand that is not split, test suite for Blackjack:39:test an empty hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:39:test an empty hand is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:40:test a random hand that is not split, test suite for Blackjack:39:test an empty hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:39:test an empty hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:40:test a random hand that is not split, test suite for Blackjack:39:test an empty hand.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Still 2 tests running : test suite for Blackjack:41:test a random hand that is not split, test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:41:test a random hand that is not split, test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Start test test suite for Blackjack:41:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Still 2 tests running : test suite for Blackjack:41:test a random hand that is not split, test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:41:test a random hand that is not split, test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: Test test suite for Blackjack:40:test a random hand that is not split is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Still 2 tests running : test suite for Blackjack:41:test a random hand that is not split, test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:41:test a random hand that is not split, test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#01 I: End test test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Still 2 tests running : test suite for Blackjack:41:test a random hand that is not split, test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 2 tests running: test suite for Blackjack:41:test a random hand that is not split, test suite for Blackjack:40:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Still 1 tests running : test suite for Blackjack:41:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 1 tests running: test suite for Blackjack:41:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: Test test suite for Blackjack:41:test a random hand that is not split is successful.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Still 1 tests running : test suite for Blackjack:41:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 1 tests running: test suite for Blackjack:41:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#02 I: End test test suite for Blackjack:41:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Still 1 tests running : test suite for Blackjack:41:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 1 tests running: test suite for Blackjack:41:test a random hand that is not split.
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: 0 tests running: .
+2021-11-05T17:36:27+00:00 Jetts-MacBook-Pro.local#00 I: Worker Jetts-MacBook-Pro.local#01 has ended.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Worker Jetts-MacBook-Pro.local#02 has ended.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Used 2 worker during test execution.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Run 21 tests with shard Jetts-MacBook-Pro.local#01.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Run 21 tests with shard Jetts-MacBook-Pro.local#02.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Check health of shard Jetts-MacBook-Pro.local#01, 4 times.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Check health of shard Jetts-MacBook-Pro.local#02, 1 times.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: ==============
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Summary:
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:41:test a random hand that is not split is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:40:test a random hand that is not split is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:39:test an empty hand is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:38:test an insurance hand is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:37:test a hand that is split is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:35:test multiple hits with deck1 and player is under is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 E: Test test suite for Blackjack:36:test double down on small deck has failed.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 E: not equal in test test suite for Blackjack:36:test double down on small deck.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 E: Raised at OUnitAssert.assert_failure in file "src/lib/ounit2/advanced/oUnitAssert.ml", line 45, characters 2-27
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 E: Called from OUnitRunner.run_one_test.(fun) in file "src/lib/ounit2/advanced/oUnitRunner.ml", line 83, characters 13-26
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 E: 
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:34:test multiple hits with deck2 until player busts is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:33:test hit when player hand is empty and deck is deck1 is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:32:test hit when player hand is empty and deck is deck2 is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:31:test deal on standard_deck.json without shuffling using number of cards left in the deck is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:30:test deal on small_deck.json without shuffling using number of cards left in the deck is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:29:test top_card on deck specified by standard_deck.json is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:28:test top_card on deck specified by small_deck.json is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:27:shuffle deck_2 is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:26:shuffle deck_1 twice is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:25:shuffle deck_1 once is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:24:test an arbitrary string is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:23:test an empty end action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:22:test an empty start action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:21:test a double down action with gibberish attached is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:20:test a double down action with random value is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:19:test a false double down action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:18:test a split with gibberish attached is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:17:test a split with some random value is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:15:test a hit with some random value is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:16:test a hit with gibberish attached is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:13:test an empty action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:14:test a bet with no values specified is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:12:test a random end action with a lot of white spaces is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:11:test a random end action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:10:test a random start action with a lot of white spaces is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:9:test a random start action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:7:test a double down action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:8:test a double down action with a lot of white spaces is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:6:test a split action with a lot of white spaces is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:5:test a split action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:4:test a stay action with a lot of white spaces is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:3:test a stay action is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:2:test a hit action with a lot of white spaces is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:1:test a bet of value 10 with a lot of white spaces is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Test test suite for Blackjack:0:test a bet of value 10 is successful.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Ran: 42 tests in: 0.12 seconds.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Cases: 42.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Tried: 42.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Errors: 0.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Failures: 1.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Skip: 0.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Todo: 0.
+2021-11-05T17:36:28+00:00 Jetts-MacBook-Pro.local#00 I: Timeout: 0.
